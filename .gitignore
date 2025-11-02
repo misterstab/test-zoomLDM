@@ -7,3 +7,4 @@ wandb
 tmp
 ./models
 src
+.DS_Store
