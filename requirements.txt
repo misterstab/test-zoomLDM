@@ -1,3 +1,4 @@
+scikit-image
 black==23.7.0
 chardet==5.1.0
 einops>=0.6.1
