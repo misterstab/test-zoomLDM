@@ -41,7 +41,7 @@ imageio-ffmpeg==0.4.2
 omegaconf==2.1.1
 test-tube>=0.7.5
 pytorch-fid
-wandb==0.15.4
+wandb
 h5py
 huggingface_hub
 datasets==3.0.2
