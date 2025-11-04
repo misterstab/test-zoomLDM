@@ -9,7 +9,11 @@ kornia
 matplotlib>=3.7.2
 natsort>=8.4.0
 ninja>=1.11.1
+<<<<<<< Updated upstream
 pyarrow
+=======
+pyarrow==17.0.0
+>>>>>>> Stashed changes
 bitsandbytes==0.43.2
 open-clip-torch>=2.20.0
 opencv-python==4.6.0.66
