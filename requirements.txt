@@ -37,7 +37,7 @@ xformers>=0.0.20
 streamlit-keyup==0.2.0
 albumentations==0.4.3
 pudb==2019.2
-imageio==2.9.0
+imageio
 imageio-ffmpeg==0.4.2
 omegaconf==2.1.1
 test-tube>=0.7.5
